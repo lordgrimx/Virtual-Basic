@@ -1,0 +1,13 @@
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\bin\Debug\FirstApp.xml
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.vbproj.AssemblyReference.cache
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.Form1.resources
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.Resources.resources
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.vbproj.GenerateResource.cache
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.vbproj.CoreCompileInputs.cache
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.xml
+C:\Users\alperen\Desktop\Software\Virtual-Basic\FirstApp\obj\Debug\FirstApp.pdb
